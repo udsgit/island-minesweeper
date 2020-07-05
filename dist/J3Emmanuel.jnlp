@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="J3Emmanuel.jnlp">
+  <information>
+    <title>J3Emmanuel</title>
+    <vendor>GAMING PC</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="J3Emmanuel.jar" size="52608" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="J3Emmanuel" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="J3Emmanuel.J3EmmanuelMain"  name="J3Emmanuel" />
+  <update check="always"/>
+</jnlp>
