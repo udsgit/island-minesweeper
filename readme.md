@@ -25,11 +25,14 @@ In version 3.0 I have wasted a lot of time designing each tile pixel by pixel my
 
 ## **Screenshots**
 
-> ![Screenshot](images/example1.png) >_Version 1.0 Basic minesweeper (Console Edition)._
+> ![Screenshot](images/example1.png)  
+> Version 1.0 Basic minesweeper (Console Edition).
 
-> ![Screenshot](images/example2.png) >_Version 2.0 Full minesweeper (Console Edition)._
+> ![Screenshot](images/example2.png)  
+> Version 2.0 Full minesweeper (Console Edition).
 
-> ![Screenshot](images/example3.png) >_Version 3.0 Full minesweeper + 2D Graphics._
+> ![Screenshot](images/example3.png)  
+> Version 3.0 Full minesweeper + 2D Graphics.
 
 ## **Technologies**
 
@@ -56,7 +59,8 @@ git clone https://github.com/udsgit/tic-tac-toe.git
 3. When the board is generated, you can uncover each tile with the left mouse button or using the right mouse button to mark the possible bombs, doubts or unmark them.
 4. Check the legend.
 
-> ![Screenshot](images/legend.png) >_Legend_
+> ![Screenshot](images/legend.png)  
+> *Legend*
 
 5. Enjoy.
 
