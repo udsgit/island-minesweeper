@@ -17,7 +17,7 @@ Interactive minesweeper game 💣 with a beautiful island theme 🏝️ and cast
 ## **General info**
 
 **Date**: January, 2019  
-**Duration**: 2 Weeks.
+**Duration**: 1 Month.
 
 It was a deliverable practice of doing a basic minesweeper in console with **Java**, but after doing so, I have continued to improve the project by releasing a version 2.0 with its own algorithm and leaving it nice to play on the console with the full functionality of the minesweeper and later I wanted to pass that project to version 3.0 using JavaFx and further improving this algorithm and becoming my first complex project in this framework.
 
