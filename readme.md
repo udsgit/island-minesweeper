@@ -41,12 +41,12 @@ In version 3.0 I have wasted a lot of time designing each tile pixel by pixel my
 
 ## **Setup**
 
-You can play it downloading the **Jar** or follow the next steps to download the repository and import the project.
+You can play it downloading the [**Jar**](https://github.com/udsgit/island-minesweeper/raw/master/dist/J3Emmanuel.jar) or follow the next steps to download the repository and import the project.
 
 1. Clone or download the repository.
 
 ```console
-git clone https://github.com/udsgit/tic-tac-toe.git
+git clone https://github.com/udsgit/island-minesweeper.git
 ```
 
 2. Open project with your **IDE** (In my case I used NetBeans).
@@ -54,7 +54,7 @@ git clone https://github.com/udsgit/tic-tac-toe.git
 
 ## **Usage**
 
-1. Just download and install the [**Jar**](./apk/tic-tac-toe.apk) or if you have cloned it, you can run it from the same IDE when compiling it.
+1. Just download and install the [**Jar**](https://github.com/udsgit/island-minesweeper/raw/master/dist/J3Emmanuel.jar) or if you have cloned it, you can run it from the same IDE when compiling it.
 2. When you run it, a menu will appear to choose the number of rows, columns and mines that the board will have.
 3. When the board is generated, you can uncover each tile with the left mouse button or using the right mouse button to mark the possible bombs, doubts or unmark them.
 4. Check the legend.
