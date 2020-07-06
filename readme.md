@@ -7,6 +7,7 @@ Interactive minesweeper game 💣 with a beautiful island theme 🏝️ and cast
 - [**Island Minesweeper**](#island-minesweeper)
   - [**Table of contents**](#table-of-contents)
   - [**General info**](#general-info)
+  - [**Demo**](#demo)
   - [**Screenshots**](#screenshots)
   - [**Technologies**](#technologies)
   - [**Setup**](#setup)
@@ -23,16 +24,17 @@ It was a deliverable practice of doing a basic minesweeper in console with **Jav
 
 In version 3.0 I have wasted a lot of time designing each tile pixel by pixel myself. Since I have finally finished designing 34 different tiles. Finally, I was surprised how the final design could fit, giving a different theme to a game as simple as the minesweeper.
 
+## **Demo**
+
+You can try it downloading the [**Jar**](https://github.com/udsgit/island-minesweeper/raw/master/dist/J3Emmanuel.jar).
+
+> <img src="images/demo.gif"/><br><i>Demo</i>
+
 ## **Screenshots**
 
-> ![Screenshot](images/example1.png)  
-> Version 1.0 Basic minesweeper (Console Edition).
-
-> ![Screenshot](images/example2.png)  
-> Version 2.0 Full minesweeper (Console Edition).
-
-> ![Screenshot](images/example3.png)  
-> Version 3.0 Full minesweeper + 2D Graphics.
+> <img src="images/example1.png" height="150"/>
+> <img src="images/example2.png" height="150"/>
+> <img src="images/example3.png" height="150"/><br><i>Example of the evolution of the project, from version 1.0 to 3.0.</i>
 
 ## **Technologies**
 
@@ -40,8 +42,6 @@ In version 3.0 I have wasted a lot of time designing each tile pixel by pixel my
 - **Java Fx**&nbsp;&nbsp;_(for 3.0 version)_
 
 ## **Setup**
-
-You can play it downloading the [**Jar**](https://github.com/udsgit/island-minesweeper/raw/master/dist/J3Emmanuel.jar) or follow the next steps to download the repository and import the project.
 
 1. Clone or download the repository.
 
@@ -59,8 +59,7 @@ git clone https://github.com/udsgit/island-minesweeper.git
 3. When the board is generated, you can uncover each tile with the left mouse button or using the right mouse button to mark the possible bombs, doubts or unmark them.
 4. Check the legend.
 
-> ![Screenshot](images/legend.png)  
-> *Legend*
+> <img src="images/legend.png" height="150"/><br><i>Legend</i>
 
 5. Enjoy.
 
